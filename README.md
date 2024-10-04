@@ -3,7 +3,7 @@
 👋 Hi, This is Manoj !
 🎓 Master’s Student in Data Science @ DePaul University, Chicago, IL (Graduating in 2025)  
 💻 Data Science Enthusiast | Specialized in AI & Computational Methods
-🏆 Ranked in the top 5% in intercollege hackathon** among 10,000+ students 🎉  
+🏆 Ranked in the top 5% in intercollege hackathon among 10,000+ students 🎉  
 
 🔧 Skills & Expertise:
 - Languages: Python 🐍, R 📊, SQL 💾  

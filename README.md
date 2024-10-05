@@ -25,7 +25,7 @@
   - Reduced data anomalies by **25%** and boosted model validation scores through iterative tuning and deep learning.
 
 👨‍💻 **Professional Experience:**  
-- **Technical Support Engineer @ Zoho Corporation** *(Jan 2023 – May 2023)*  
+- **Software developer @ Zoho Corporation** *(Jan 2023 – May 2023)*  
   - Improved data management efficiency by **20%**, extracting and cleaning large datasets from Zoho CRM and Zoho Books.  
   - Developed automated workflows using SQL and Excel’s advanced functions (Pivot Tables, VLOOKUP) to generate detailed reports and insights for higher-ups, improving decision-making and business processes.  
   - Identified key patterns and trends from **support ticket data**, improving issue resolution time by **10%**.  

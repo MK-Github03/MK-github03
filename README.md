@@ -1,3 +1,4 @@
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/)
 
 👋 Hi, This is Manoj !
 

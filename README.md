@@ -1,4 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/)
+[![Resume](https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=readme&logoColor=white)](https://github.com/MK-Github03/My_resume/blob/main/My_resume%20pdf.pdf)
+
 
 👋 Hi, This is Manoj !
 

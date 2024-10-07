@@ -1,5 +1,6 @@
 
 👉 [📄 Click here to view my resume!](https://github.com/MK-Github03/My_resume/blob/main/My_resume%20pdf.pdf)✨
+👉 [💼 Click here to view my LinkedIn!](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/) ✨
 
 👋 Hi, This is Manoj !
 🎓 Master’s Student in Data Science @ DePaul University, Chicago, IL (Graduating in 2025)  

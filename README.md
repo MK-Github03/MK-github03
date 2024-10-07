@@ -8,7 +8,12 @@
 
 💻 Data Science Enthusiast | Specialized in AI & Computational Methods
 
-🏆 Ranked in the top 5% in intercollege hackathon among 10,000+ students 🎉  
+
+
+[![MK-github03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MK-github03&show_icons=true&theme=radical)](https://github.com/MK-github03)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-github03&layout=compact&theme=radical)](https://github.com/MK-github03)
+
  
 
 🔧 Skills & Expertise:

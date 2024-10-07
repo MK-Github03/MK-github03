@@ -1,5 +1,5 @@
 
-👉 [📄 Click here to view my resume!](./https://github.com/MK-Github03/My_resume/blob/main/My_resume%20pdf.pdf) ✨
+👉 [📄 Click here to view my resume!](https://github.com/MK-Github03/My_resume/blob/main/My_resume%20pdf.pdf)✨
 
 👋 Hi, This is Manoj !
 🎓 Master’s Student in Data Science @ DePaul University, Chicago, IL (Graduating in 2025)  

@@ -9,8 +9,7 @@
 💻 Data Science Enthusiast | Specialized in AI & Computational Methods
 
 🏆 Ranked in the top 5% in intercollege hackathon among 10,000+ students 🎉  
-
-👉 [📄 Click here to view my resume!](https://github.com/MK-Github03/My_resume/blob/main/My_resume%20pdf.pdf)✨ 
+ 
 
 🔧 Skills & Expertise:
 - Languages: Python 🐍, R 📊, SQL 💾  

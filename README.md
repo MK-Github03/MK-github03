@@ -10,9 +10,6 @@
 
 
 
-[![MK-github03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MK-github03&show_icons=true&theme=radical)](https://github.com/MK-github03)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-github03&layout=compact&theme=radical)](https://github.com/MK-github03)
 
  
 
@@ -47,11 +44,15 @@
 - Advanced Neural Networks for image and text recognition 🧠  
 - Exploring Cloud-Native Data Engineering solutions on AWS
 
+
+[![MK-github03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MK-github03&show_icons=true&theme=radical)](https://github.com/MK-github03)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-github03&layout=compact&theme=radical)](https://github.com/MK-github03)
+
+
 📫 *Let’s Connect!*
 - Always open to collaborations on exciting data science projects or discussions on AI and ML. If you’re into **data, tech, or AI**, let’s chat!
   
-
-
-👉 [💼 Click here to view my LinkedIn!](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/) ✨
+👉 [💼 My LinkedIn!](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/) ✨
 
 

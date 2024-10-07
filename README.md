@@ -1,11 +1,9 @@
 
-👉 [📄 Click here to view my resume!](https://github.com/MK-Github03/My_resume/blob/main/My_resume%20pdf.pdf)✨
-👉 [💼 Click here to view my LinkedIn!](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/) ✨
-
 👋 Hi, This is Manoj !
 🎓 Master’s Student in Data Science @ DePaul University, Chicago, IL (Graduating in 2025)  
 💻 Data Science Enthusiast | Specialized in AI & Computational Methods
 🏆 Ranked in the top 5% in intercollege hackathon among 10,000+ students 🎉  
+👉 [📄 Click here to view my resume!](https://github.com/MK-Github03/My_resume/blob/main/My_resume%20pdf.pdf)✨ 
 
 🔧 Skills & Expertise:
 - Languages: Python 🐍, R 📊, SQL 💾  
@@ -40,4 +38,9 @@
 
 📫 *Let’s Connect!*
 - Always open to collaborations on exciting data science projects or discussions on AI and ML. If you’re into **data, tech, or AI**, let’s chat!
+  
+
+
+👉 [💼 Click here to view my LinkedIn!](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/) ✨
+
 

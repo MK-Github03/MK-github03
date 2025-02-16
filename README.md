@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/)
-[![Resume](https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=readme&logoColor=white)](https://github.com/MK-Github03/My_resume/blob/main/My_resume_DE.pdf)
+[![Resume](https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=readme&logoColor=white)](https://github.com/MK-Github03/My_resume/blob/main/RESUME_THE_LATEST_FEB.pdf)
 ![Profile views](https://komarev.com/ghpvc/?username=MK-github03&color=blueviolet)
 
 👋 Hi, This is Manoj !

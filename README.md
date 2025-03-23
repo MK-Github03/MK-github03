@@ -1,58 +1,81 @@
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/)
-[![Resume](https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=readme&logoColor=white)](https://github.com/MK-Github03/My_resume/blob/main/RESUME_THE_LATEST_FEB.pdf)
-![Profile views](https://komarev.com/ghpvc/?username=MK-github03&color=blueviolet)
+# 👋 Hey there, I'm Manoj!
 
-👋 Hi, This is Manoj !
+🚀 **Master’s in Data Science @ DePaul University (Graduating 2025)**  
+💼 Ex-Software Developer @ Zoho | Data Science Enthusiast | AI & ML Practitioner  
 
-🎓 Master’s Student in Data Science @ DePaul University, Chicago, IL (Graduating in 2025)  
+---
 
-💻 Data Science Enthusiast | Specialized in AI & Computational Methods
+## 💡 What I Actually Do:
 
+I'm not here to throw a laundry list of models or pretend I built AGI.  
+I focus on building **solid, functional, and optimized machine learning pipelines** that solve real-world problems — with actual results to show.
 
+If it’s messy data, inefficient code, or a model that sucks — I fix it. Period.
 
+---
 
- 
+## 🧠 Core Skills & Tools
 
-🔧 Skills & Expertise:
-- Languages: Python 🐍, R 📊, SQL 💾  
-- **Data Science:** Machine Learning 🤖, Deep Learning 🧠, Natural Language Processing 🗣️, Data Visualization 📈  
-- **Tools:** Jupyter, RStudio, SQL Server, Hadoop, Spark, AWS (Redshift, Big Query, Dataflow), Azure, Tableau, PowerBI  
-- **Databases:** MySQL, Oracle, ETL, Data Pipelines (Airflow, SSIS)  
-- **Statistical Analysis:** Hypothesis Testing, Regression Analysis, A/B Testing  
-- **Visualization:** Matplotlib, Seaborn, ggplot2, Snowflake  
-- **Soft Skills:** Problem-solving 🧩, Analytical Thinking 🔍, Communication 💬, Leadership 👥  
+**Languages & Tech Stack**  
+`Python` | `R` | `SQL` | `Pandas` | `NumPy` | `TensorFlow` | `Scikit-learn` | `Tableau` | `PowerBI` | `AWS` | `Azure`
 
-🌟 **Highlighted Projects:**  
-- **Speech Emotion Detection using Deep Learning**  
-  - Built a system with **85% accuracy** using TensorFlow, SVM, and feature extraction techniques (MFCC, Chroma, Mel Spectrogram).  
-  - Automated the data pipeline, reducing preprocessing time by **30%** and increasing handling efficiency by **40%**.  
-  - Achieved a **25% improvement** in classification accuracy through advanced feature engineering and model tuning.
+**What I Know Cold:**  
+- Machine Learning (classification, regression, clustering)  
+- Deep Learning (CNNs for image data, LSTM for sequences)  
+- NLP (Text classification, embeddings)  
+- Data Visualization (dashboards that actually tell a story)  
+- Cloud & Pipelines (Airflow, ETL, Redshift, Snowflake)
 
-- **Predictive Analysis for Credit Limit**  
-  - Developed an ML model that improved prediction accuracy by **20%** using advanced algorithms and techniques.  
-  - Reduced data anomalies by **25%** and boosted model validation scores through iterative tuning and deep learning.
+**Soft Skills That Aren’t So Soft:**  
+- Ruthless Problem Solving  
+- Clear Communication (no BS)  
+- Team Collaboration without ego
 
-👨‍💻 **Professional Experience:**  
-- **Software developer @ Zoho Corporation** *(Jan 2023 – May 2023)*  
-  - Improved data management efficiency by **20%**, extracting and cleaning large datasets from Zoho CRM and Zoho Books.  
-  - Developed automated workflows using SQL and Excel’s advanced functions (Pivot Tables, VLOOKUP) to generate detailed reports and insights for higher-ups, improving decision-making and business processes.  
-  - Identified key patterns and trends from **support ticket data**, improving issue resolution time by **10%**.  
-  - Worked closely with cross-functional teams to optimize data pipelines, which led to a **15% reduction** in data processing time and increased reporting accuracy.  
+---
 
+## ⚔️ Projects That Actually Matter
 
-🌱 Currently Learning:  
-- Advanced Neural Networks for image and text recognition 🧠  
-- Exploring Cloud-Native Data Engineering solutions on AWS
+### 🎙️ **Speech Emotion Detection (Deep Learning)**  
+- Achieved **85% accuracy** using CNN + MFCC features.  
+- Automated the pipeline — cut preprocessing time by **30%**.  
+- Boosted model performance **25%** with real feature engineering, not just tweaking hyperparams for fun.
 
+### 💳 **Credit Limit Prediction (ML)**  
+- Built a model that improved prediction accuracy by **20%**.  
+- Cleaned and processed a trash-fire of data to usable form.  
+- Implemented a repeatable, scalable validation strategy.
 
-[![MK-github03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MK-github03&show_icons=true&theme=radical)](https://github.com/MK-github03)
+---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-github03&layout=compact&theme=radical)](https://github.com/MK-github03)
+## 👨‍💻 Experience That Hit Hard
 
+**Software Developer @ Zoho Corp** *(Jan 2023 – May 2023)*  
+- Slashed data processing time by **15%** by optimizing SQL queries and Excel workflows.  
+- Pulled insights from massive CRM datasets, leading to **10% faster issue resolutions**.  
+- Created reporting dashboards that execs actually used (and didn’t toss).
 
-📫 *Let’s Connect!*
-- Always open to collaborations on exciting data science projects or discussions on AI and ML. If you’re into **data, tech, or AI**, let’s chat!
-  
-👉 [💼 My LinkedIn!](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/) ✨
+---
 
+## 🌱 Currently Learning  
+- Advanced Neural Networks for NLP & Vision  
+- Scalable Data Engineering on the Cloud (AWS, GCP)
+
+---
+
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/)  
+[![Resume](https://img.shields.io/badge/-Resume-black?style=flat-square&logo=readme&logoColor=white)](https://github.com/MK-Github03/My_resume/blob/main/RESUME_THE_LATEST_FEB.pdf)  
+📫 **Email**: Reach out through LinkedIn — if it's worth my time, I’ll respond.
+
+---
+
+## ⚡ Stats Don’t Lie
+
+![MK-github03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MK-github03&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-github03&layout=compact&theme=radical)
+
+---
+
+> 💬 “Don’t overhype. Don’t undersell. Just show up and ship.”
 

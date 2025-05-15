@@ -27,9 +27,9 @@ If it’s messy data, inefficient code, or a model that sucks — I fix it. Peri
 - Cloud & Pipelines (Airflow, ETL, Redshift, Snowflake)
 
 **Soft Skills That Aren’t So Soft:**  
-- Ruthless Problem Solving  
-- Clear Communication (no BS)  
-- Team Collaboration without ego
+- Ruthless Problem Solving.
+- Clear Communication.
+- Team Collaboration.
 
 ---
 

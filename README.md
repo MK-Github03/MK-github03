@@ -77,5 +77,4 @@ If it’s messy data, inefficient code, or a model that sucks — I fix it. Peri
 
 ---
 
-> 💬 “Don’t overhype. Don’t undersell. Just show up and ship.”
 

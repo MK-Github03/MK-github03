@@ -71,8 +71,9 @@ If it’s messy data, inefficient code, or a model that sucks — I fix it. Peri
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/)  
 [![Resume](https://img.shields.io/badge/-Resume-black?style=flat-square&logo=readme&logoColor=white)](https://github.com/MK-Github03/My_resume/blob/main/RESUME_THE_LATEST_FEB.pdf)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white)](manojkumarashok.com)  
-📫 **Email**: Reach out through LinkedIn — if it's worth my time, I’ll respond.
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white)](https://manojkumarashok.com)  
+📫 **Email**: Feel free to connect via LinkedIn — I’m always open to meaningful conversations.
+
 
 ---
 

@@ -27,8 +27,8 @@ If it’s messy data, inefficient code, or a model that sucks — I fix it. Peri
 - Cloud & Pipelines (Airflow, ETL, Redshift, Snowflake)
 
 **Soft Skills That Aren’t So Soft:**  
-- Ruthless Problem Solving.
-- Clear Communication.
+- Ruthless Problem Solving.  
+- Clear Communication.  
 - Team Collaboration.
 
 ---
@@ -40,10 +40,15 @@ If it’s messy data, inefficient code, or a model that sucks — I fix it. Peri
 - Automated the pipeline — cut preprocessing time by **30%**.  
 - Boosted model performance **25%** with real feature engineering, not just tweaking hyperparams for fun.
 
-### 💳 **Credit Limit Prediction (ML)**  
-- Built a model that improved prediction accuracy by **20%**.  
-- Cleaned and processed a trash-fire of data to usable form.  
-- Implemented a repeatable, scalable validation strategy.
+### 🧠 **AI Beauty Filter Analysis (NLP + Computer Vision)**  
+- Led research to analyze bias in AI-powered beauty filters using **transformers and facial recognition models**.  
+- Fine-tuned CLIP and ViT models to correlate visual changes with demographic metadata.  
+- Presented findings at a university research symposium — highlighted ethical concerns in generative AI.
+
+  ### 🌐 **Portfolio Website (HTML, CSS, JS, Streamlit)**  
+- Built a fully responsive, interactive portfolio to showcase projects, resume, and GitHub integrations.  
+- Integrated **Streamlit apps** for live ML demo deployments.  
+- Optimized site performance and SEO for recruiters and hiring managers.
 
 ---
 
@@ -66,6 +71,7 @@ If it’s messy data, inefficient code, or a model that sucks — I fix it. Peri
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/)  
 [![Resume](https://img.shields.io/badge/-Resume-black?style=flat-square&logo=readme&logoColor=white)](https://github.com/MK-Github03/My_resume/blob/main/RESUME_THE_LATEST_FEB.pdf)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white)](https://mk-github03.github.io/)  
 📫 **Email**: Reach out through LinkedIn — if it's worth my time, I’ll respond.
 
 ---
@@ -74,7 +80,3 @@ If it’s messy data, inefficient code, or a model that sucks — I fix it. Peri
 
 ![MK-github03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MK-github03&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-github03&layout=compact&theme=radical)
-
----
-
-

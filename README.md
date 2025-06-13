@@ -1,22 +1,24 @@
-# 👋 Hey there, I'm Manoj!
+# 👋 Hi there, I'm Manoj!
 
-🚀 **Master’s in Data Science @ DePaul University (Graduating 2025)**  
-💼 Ex-Software Developer @ Zoho | Data Science Enthusiast | AI & ML Practitioner  
+🎓 **Master’s Student in Data Science @ DePaul University (Graduating Nov 2025)**  
+💼 Ex-Software Engineer @ Zoho | Research Assistant @ DePaul (GANs) | Data Science & ML Enthusiast  
 
 ---
 
-## 💡 What I Actually Do:
+## 💡 About Me
 
-I'm not here to throw a laundry list of models or pretend I built AGI.  
-I focus on building **solid, functional, and optimized machine learning pipelines** that solve real-world problems — with actual results to show.
+I'm passionate about building intelligent systems that create real-world impact.  
+I enjoy turning messy data into insights, developing robust machine learning models, and optimizing pipelines for performance and scalability.
 
-If it’s messy data, inefficient code, or a model that sucks — I fix it. Period.
+Currently exploring advanced neural networks, generative AI, and scalable data engineering systems — and I'm actively seeking **entry-level full-time opportunities** in Data Science, ML Engineering, or AI Research.
+
+📬 **Let’s connect** if you’re hiring or just want to talk data! → [mashok@depaul.edu](mailto:mashok@depaul.edu)
 
 ---
 
 ## 🧠 Core Skills & Tools
 
-These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
+These tools and techniques have empowered me to build and deploy data science projects from end to end:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -40,53 +42,75 @@ These valuable tools and techniques have empowered me to successfully develop an
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+---
 
-## ⚔️ Projects
+## 🔨 Projects
 
-### 🎙️ **Speech Emotion Detection (Deep Learning)**  
-- Achieved **85% accuracy** using CNN + MFCC features.  
-- Automated the pipeline — cut preprocessing time by **30%**.  
-- Boosted model performance **25%** with real feature engineering, not just tweaking hyperparams for fun.
+### 🤖 Resume + Career Advisor Bot  
+*LLaMA.cpp, Streamlit, FastAPI, CUDA*  
+- Developed a local AI assistant to parse resumes and assist with role-matching.  
+- Built a GPU-accelerated backend with **LLaMA.cpp** and containerized the solution for scalable deployment.
 
-### 🧠 **AI Beauty Filter Analysis (NLP + Computer Vision)**  
-- Led research to analyze bias in AI-powered beauty filters using **transformers and facial recognition models**.  
-- Fine-tuned CLIP and ViT models to correlate visual changes with demographic metadata.  
-- Presented findings at a university research symposium — highlighted ethical concerns in generative AI.
+### ❤️ Heart Disease Prediction  
+*Scikit-Learn, Ensemble Models*  
+- Achieved **93.9% ROC-AUC** using Gradient Boosting and MLPs on clinical datasets.  
+- Improved recall by **21%** with stratified sampling and feature engineering.
 
-  ### 🌐 **Portfolio Website (HTML, CSS, JS, Streamlit)**  
-- Built a fully responsive, interactive portfolio to showcase projects, resume, and GitHub integrations.  
-- Integrated **Streamlit apps** for live ML demo deployments.  
-- Optimized site performance and SEO for recruiters and hiring managers.
+### 💳 Credit Limit Forecasting  
+*Python, TensorFlow, SQL*  
+- Improved model accuracy by **20%** with Ridge and Lasso regression.  
+- Automated SQL pipelines for batch prediction, increasing throughput by **50%**.
+
+### 📉 Bankruptcy Risk Modeling  
+*XGBoost, LightGBM, SMOTE*  
+- Trained ensemble models achieving **98.5% accuracy**, **97.6% F1-score**.  
+- Addressed class imbalance with **SMOTE**, boosting recall by **42%**.
 
 ---
 
-## 👨‍💻 Experience That Hit Hard
+## 🔬 Research
 
-**Software Developer @ Zoho Corp** *(Jan 2023 – May 2023)*  
-- Slashed data processing time by **15%** by optimizing SQL queries and Excel workflows.  
-- Pulled insights from massive CRM datasets, leading to **10% faster issue resolutions**.  
-- Created reporting dashboards that execs actually used (and didn’t toss).
+**Research Assistant (GANs) — DePaul University**  
+*Jan 2025 – Present*  
+- Conducting research on **Conditional GANs**, combining IcGAN and RoCGAN for image enhancement.  
+- Improved model realism by **30%** and reduced training time by **40%** using hyperparameter tuning.
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced Neural Networks for NLP & Vision  
-- Scalable Data Engineering on the Cloud (AWS, GCP)
+## 💼 Experience
+
+**Software Engineer – Data Engineering**  
+*Zoho Corporation | Jan 2023 – July 2023*  
+- Built ETL pipelines to process large CRM datasets, increasing throughput by **20%**.  
+- Automated reporting via SQL and Tableau, cutting lag by **24%**.  
+- Developed KPI models that improved support resolution by **10%**.  
+- Orchestrated workflows using Airflow to reduce batch latency.
+
+---
+
+## 🎯 Currently Seeking
+
+I’m looking for **entry-level full-time roles** in:
+
+- Data Science  
+- Machine Learning Engineering  
+- Applied AI Research
+
+📩 Feel free to reach out: [mashok@depaul.edu](mailto:mashok@depaul.edu)
 
 ---
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-ashok-078241211/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/MKASHOK/)  
 [![Resume](https://img.shields.io/badge/-Resume-black?style=flat-square&logo=readme&logoColor=white)](https://github.com/MK-Github03/My_resume/blob/main/RESUME_THE_LATEST_FEB.pdf)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white)](https://manojkumarashok.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/MK-Github03)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mashok@depaul.edu)
-
-
 
 ---
 
-## ⚡ Stats Don’t Lie
+## ⚡ GitHub Stats
 
-![MK-github03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MK-github03&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-github03&layout=compact&theme=radical)
+![MK-github03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MK-Github03&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Github03&layout=compact&theme=radical)

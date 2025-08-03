@@ -10,7 +10,7 @@
 I'm passionate about building intelligent systems that create real-world impact.  
 I enjoy turning messy data into insights, developing robust machine learning models, and optimizing pipelines for performance and scalability.
 
-Currently exploring advanced neural networks, generative AI, and scalable data engineering systems — and I'm actively seeking **entry-level full-time opportunities** in Data Science, ML Engineering, or AI Research.
+Currently exploring advanced neural networks, generative AI, and scalable data engineering systems - and I'm actively seeking **entry-level full-time opportunities** in Data Science, ML Engineering, or AI Research.
 
 📬 **Let’s connect** if you’re hiring or just want to talk data! → [mashok@depaul.edu](mailto:mashok@depaul.edu)
 
@@ -70,7 +70,7 @@ These tools and techniques have empowered me to build and deploy data science pr
 
 ## 🔬 Research
 
-**Research Assistant (GANs) — DePaul University**  
+**Research Assistant (GANs) -  DePaul University**  
 *Jan 2025 – Present*  
 - Conducting research on **Conditional GANs**, combining IcGAN and RoCGAN for image enhancement.  
 - Improved model realism by **30%** and reduced training time by **40%** using hyperparameter tuning.

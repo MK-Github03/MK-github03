@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Manoj!
 
-🎓 **Master’s Student in Data Science @ DePaul University (Graduating Nov 2025)**  
+🎓 **Master’s Student in Data Science @ DePaul University (Graduating Dec 2025)**  
 💼 Ex-Software Engineer @ Zoho | Research Assistant @ DePaul (GANs) | Data Science & ML Enthusiast  
 
 ---

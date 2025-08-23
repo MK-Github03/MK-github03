@@ -118,4 +118,4 @@ I’m looking for **entry-level full-time roles** in:
 
 ## Leetcode Stats
 
-[![MK-leetcode03's LeetCode stats](https://leetcode-stats-six.vercel.app/MK-leetcode03=MK-leetcode03)](https://github.com/MK-leetcode03/leetcode-stats)
+[![MK_leetcode03's LeetCode stats](https://leetcode-stats-six.vercel.app/MK_leetcode03=MK_leetcode03)](https://github.com/MK_leetcode03/leetcode-stats)

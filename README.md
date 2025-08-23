@@ -114,3 +114,8 @@ I’m looking for **entry-level full-time roles** in:
 
 ![MK-github03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MK-Github03&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Github03&layout=compact&theme=radical)
+
+
+## Leetcode Stats
+
+[![MK-leetcode03's LeetCode stats](https://leetcode-stats-six.vercel.app/MK-leetcode03=MK-leetcode03)](https://github.com/MK-leetcode03/leetcode-stats)

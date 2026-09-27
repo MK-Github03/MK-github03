@@ -1,122 +1,119 @@
-# 👋 Hi there, I'm Manoj!
+# Manoj Kumar Ashok
 
-🎓 **Master’s Student in Data Science @ DePaul University (Graduating Dec 2025)**  
-💼 Ex-Software Engineer @ Zoho | Research Assistant @ DePaul (GANs) | Data Science & ML Enthusiast  
+**Data Analyst | Data Scientist | Analytics & Machine Learning**
 
----
+M.S. in Data Science from **DePaul University** with professional experience working with data at **Zoho Corporation** and research experience in deep learning at DePaul.
 
-## 💡 About Me
+I work primarily with **Python, SQL, R, machine learning, data analysis, and visualization**, with an interest in building practical data products and turning complex datasets into useful insights.
 
-I'm passionate about building intelligent systems that create real-world impact.  
-I enjoy turning messy data into insights, developing robust machine learning models, and optimizing pipelines for performance and scalability.
-
-Currently exploring advanced neural networks, generative AI, and scalable data engineering systems - and I'm actively seeking **entry-level full-time opportunities** in Data Science, ML Engineering, or AI Research.
-
-📬 **Let’s connect** if you’re hiring or just want to talk data! → [mashok@depaul.edu](mailto:mashok@depaul.edu)
+📍 Chicago, IL · Open to opportunities across the U.S.
 
 ---
 
-## 🧠 Core Skills & Tools
+## Technical Skills
 
-These tools and techniques have empowered me to build and deploy data science projects from end to end:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+**Languages:** Python, SQL, R  
+**Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch, XGBoost  
+**Analytics & BI:** Power BI, Tableau, Excel, statistical analysis  
+**Data Engineering:** PySpark, ETL, PostgreSQL, MySQL, AWS  
+**Tools:** Git, Docker, Streamlit, FastAPI, Linux
 
 ---
 
-## 🔨 Projects
+## Selected Projects
 
-### 🤖 Resume + Career Advisor Bot  
-*LLaMA.cpp, Streamlit, FastAPI, CUDA*  
-- Developed a local AI assistant to parse resumes and assist with role-matching.  
-- Built a GPU-accelerated backend with **LLaMA.cpp** and containerized the solution for scalable deployment.
+### 📉 Company Bankruptcy Prediction
+**Python · Scikit-learn · XGBoost · PCA · Imbalanced Classification**
 
-### ❤️ Heart Disease Prediction  
-*Scikit-Learn, Ensemble Models*  
-- Achieved **93.9% ROC-AUC** using Gradient Boosting and MLPs on clinical datasets.  
-- Improved recall by **21%** with stratified sampling and feature engineering.
+Built a machine-learning workflow to identify companies at risk of bankruptcy using approximately **6,800 observations and 96 financial indicators**.
 
-### 💳 Credit Limit Forecasting  
-*Python, TensorFlow, SQL*  
-- Improved model accuracy by **20%** with Ridge and Lasso regression.  
-- Automated SQL pipelines for batch prediction, increasing throughput by **50%**.
+- Compared Logistic Regression, Random Forest, XGBoost, SVM, Naive Bayes, and ensemble methods.
+- Addressed severe class imbalance and evaluated models using precision, recall, F1-score, and ROC-AUC.
+- Achieved approximately **0.95 ROC-AUC** with the strongest models while analyzing the tradeoff between recall and false positives.
 
-### 📉 Bankruptcy Risk Modeling  
-*XGBoost, LightGBM, SMOTE*  
-- Trained ensemble models achieving **98.5% accuracy**, **97.6% F1-score**.  
-- Addressed class imbalance with **SMOTE**, boosting recall by **42%**.
+[View Project](https://github.com/MK-Github03/Company_Bankruptcy_Prediction)
 
 ---
 
-## 🔬 Research
+### 🤖 Local Resume & Career Advisor
+**Python · LLaMA.cpp · CUDA · Streamlit**
 
-**Research Assistant (GANs) -  DePaul University**  
-*Jan 2025 – Present*  
-- Conducting research on **Conditional GANs**, combining IcGAN and RoCGAN for image enhancement.  
-- Improved model realism by **30%** and reduced training time by **40%** using hyperparameter tuning.
+Built a local AI application that allows users to upload a resume and interact with a quantized language model running directly on GPU hardware.
 
----
+- Extracts text from uploaded PDF resumes.
+- Provides resume-aware conversational responses.
+- Runs locally using `llama.cpp`, enabling private inference without external AI APIs.
 
-## 💼 Experience
-
-**Software Engineer – Data Engineering**  
-*Zoho Corporation | Jan 2023 – July 2023*  
-- Built ETL pipelines to process large CRM datasets, increasing throughput by **20%**.  
-- Automated reporting via SQL and Tableau, cutting lag by **24%**.  
-- Developed KPI models that improved support resolution by **10%**.  
-- Orchestrated workflows using Airflow to reduce batch latency.
+[View Project](https://github.com/MK-Github03/resume-career-advisor-bot-gpu-local-llama)
 
 ---
 
-## 🎯 Currently Seeking
+### ❤️ Heart Disease Prediction
+**Python · Scikit-learn · Gradient Boosting · Machine Learning**
 
-I’m looking for **entry-level full-time roles** in:
+Compared multiple classification algorithms on a heart-disease dataset containing **918 observations**.
 
-- Data Science  
-- Machine Learning Engineering  
-- Applied AI Research
+- Evaluated Logistic Regression, SVM, Random Forest, Gradient Boosting, and MLP models.
+- Used hyperparameter tuning and model comparison based on accuracy, F1-score, and ROC-AUC.
+- Gradient Boosting achieved **93.9% ROC-AUC**.
 
-📩 Feel free to reach out: [mashok@depaul.edu](mailto:mashok@depaul.edu)
-
----
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/MKASHOK/)  
-[![Resume](https://img.shields.io/badge/-Resume-black?style=flat-square&logo=readme&logoColor=white)](https://github.com/MK-Github03/My_resume/blob/main/resume.pdf)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white)](https://manojkumarashok.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/MK-Github03)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mashok@depaul.edu)
+[View Project](https://github.com/MK-Github03/Heart_Disease_Prediction)
 
 ---
 
-## ⚡ GitHub Stats
+### 💳 Credit Limit Prediction
+**R · Regression · Ridge · LASSO · Statistical Modeling**
 
-![MK-github03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MK-Github03&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Github03&layout=compact&theme=radical)
+Analyzed customer financial and demographic data to study factors associated with credit limits.
 
+- Built linear, polynomial, weighted least-squares, Ridge, and LASSO regression models.
+- Performed cross-validation and regression diagnostics.
+- Explored feature relationships, interaction effects, regularization, and model assumptions.
 
-## 🟩 LeetCode Stats
+[View Project](https://github.com/MK-Github03/Credit-Limit-Prediction)
 
-[![MK_leetcode03's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=MK_leetcode03)](https://leetcode.com/MK_leetcode03/)
+---
 
+### ☕ Coffee Chain Sales Analysis
+**R · EDA · Statistical Analysis · Data Visualization**
+
+Performed exploratory analysis on retail sales data to investigate distributions, correlations, outliers, and business performance variables.
+
+- Conducted descriptive and correlation analysis.
+- Evaluated skewed financial variables using several statistical transformations.
+- Used R, ggplot2, dplyr, caret, and related analytics libraries.
+
+[View Project](https://github.com/MK-Github03/Coffee-Chain-Sales)
+
+---
+
+## Experience
+
+### Data Analyst — Zoho Corporation
+
+Worked with business and operational datasets using **SQL and Python**, including data cleaning, validation, reporting, KPI analysis, and dashboard development.
+
+### Research Assistant — DePaul University
+
+Worked on deep-learning research involving **conditional GANs**, model training, experimentation, evaluation, and research analysis using Python and PyTorch.
+
+---
+
+## Education
+
+**M.S. in Data Science**  
+DePaul University — Chicago, IL
+
+---
+
+## Currently Interested In
+
+I am currently exploring full-time opportunities in:
+
+**Data Analytics · Business Intelligence · Data Science · Data Engineering · Applied Machine Learning**
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/MKASHOK/) · [Portfolio](https://manojkumarashok.com) · [GitHub](https://github.com/MK-Github03) · [Email](mailto:mashok@depaul.edu)
